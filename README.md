@@ -31,9 +31,7 @@ Workers) para automação de navegador (RPA).
 
 <a href="https://operah.onrender.com/">
   <img src="https://operah.onrender.com/static/images/Logo%20-%20Operah.png" width="4%" alt="Operah Logo">
-</a> Operah (Automação de eSocial)
-
-Acesse aqui: https://operah.onrender.com/
+</a><a href="https://operah.onrender.com/">Operah (Automação de eSocial) </a>
 
 Desenvolvi e mantenho uma solução completa (SaaS) para automação de consultas contratuais no portal do eSocial. O projeto resolve o problema de lentidão e processos manuais de RH.
 
@@ -49,11 +47,16 @@ Desenvolvi e mantenho uma solução completa (SaaS) para automação de consulta
 
 ### ⌨️ Alguns projetos técnicos realizados:
 
-• 
+<details>
+<summary><a href="https://github.com/Tannoukhy/analise-erp-sql-python">Análise de Vendas ERP com Python e SQL</a></summary>
+<br>
 
-•
+Uma prova de conceito (PoC) focada na manipulação de dados corporativos e geração de inteligência de negócios.
 
-•
+* **O Objetivo:** Demonstrar a arquitetura de dados e extração de relatórios comuns em ambientes de ERP (como Protheus/TOTVS).
+* **A Solução:** Um motor de banco de dados autônomo em **Python** que estrutura tabelas relacionais, insere massa de dados e executa consultas analíticas.
+* **Techs:** Python 3, SQLite, SQL Avançado (DDL, DML, Joins, Agregações).
+</details>
 
 ---
 
